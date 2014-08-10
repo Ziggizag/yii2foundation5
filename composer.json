@@ -2,7 +2,7 @@
     "name": "simpletree/yii2foundation5",
     "type": "yii2-extension",
     "require": {
-        "yiisoft/yii2": "*",
+        "yiisoft/yii2": "yii2-app-advanced",
         "zurb/foundation": "dev-master"
     },
     "description": "Foundation 5 extension for Yii 2.",
