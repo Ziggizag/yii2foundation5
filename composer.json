@@ -1,6 +1,7 @@
 {
     "name": "simpletree/yii2foundation5",
     "type": "yii2-extension",
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "yii2-app-advanced",
         "zurb/foundation": "dev-master"
